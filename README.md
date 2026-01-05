@@ -1,32 +1,32 @@
 # 👋 Olá! Eu sou Jorge
 
-Sou uma pessoa desenvolvedora apaixonada por tecnologia, aprendizado contínuo e resolução de problemas. Utilizo este GitHub como um espaço para estudar, praticar e compartilhar projetos que refletem minha evolução técnica e meu interesse em criar soluções eficientes e bem estruturadas.
+Sou desenvolvedor com foco em construir soluções eficientes, bem estruturadas e alinhadas a boas práticas de desenvolvimento. Utilizo este GitHub como um portfólio para compartilhar projetos, experimentos técnicos e implementações que demonstram minha experiência, organização de código e evolução profissional.
 
 ## 💻 O que você vai encontrar aqui
 
-- Projetos pessoais e acadêmicos  
-- Experimentos com novas tecnologias  
-- Exercícios práticos e desafios de programação  
-- Códigos organizados com foco em boas práticas  
+- Projetos pessoais e profissionais  
+- Implementações utilizando diferentes linguagens e tecnologias  
+- Soluções envolvendo APIs, banco de dados e arquitetura de software  
+- Código limpo, organizado e orientado a boas práticas  
 
 ## 🚀 Tecnologias e interesses
 
-Tenho experiência e/ou interesse em trabalhar com:
+Atuo e tenho interesse nas seguintes tecnologias e áreas:
 
 - **Front-end:** ReactJS, HTML, CSS  
 - **Back-end:** Java, C#, C/C++  
-- **Banco de Dados:** Modelagem e integração com aplicações  
-- **APIs:** Consumo e desenvolvimento de APIs  
-- **Fundamentos:** Lógica de programação  
-- **Boas práticas:** Estudos de Design Patterns e arquitetura de software  
+- **Banco de Dados:** Modelagem, consultas e integração com aplicações  
+- **APIs:** Desenvolvimento e consumo de APIs  
+- **Fundamentos:** Lógica de programação e estrutura de dados  
+- **Boas práticas:** Design Patterns, organização e arquitetura de software  
 
-Estou sempre buscando aprender algo novo e aprimorar minhas habilidades, tanto técnicas quanto de organização e colaboração em projetos.
+## 📚 Desenvolvimento contínuo
 
-## 📚 Em constante evolução
+Acredito na tecnologia como um meio de gerar valor por meio de soluções bem projetadas e escaláveis. Busco constantemente aprimorar minhas habilidades técnicas, qualidade de código e capacidade de resolver problemas complexos.
 
-Acredito que a tecnologia é uma ferramenta poderosa para transformar ideias em soluções reais. Por isso, estou sempre aberto a feedbacks, colaborações e novas oportunidades de aprendizado.
+Sinta-se à vontade para explorar os repositórios e conhecer as soluções desenvolvidas.
 
-## 📫 Entre em contato
+## 📫 Contato
 
 - **LinkedIn:** https://www.linkedin.com/in/jorge-von-doellinger  
 - **E-mail:** jvondoellinger.hello@outlook.com.br  
