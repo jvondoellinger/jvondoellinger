@@ -1,32 +1,90 @@
-# 👋 Olá! Eu sou Jorge
+# 👋 Olá, eu sou Jorge Von Doellinger
 
-Sou desenvolvedor com foco em construir soluções eficientes, bem estruturadas e alinhadas a boas práticas de desenvolvimento. Utilizo este GitHub como um portfólio para compartilhar projetos, experimentos técnicos e implementações que demonstram minha experiência, organização de código e evolução profissional.
+Desenvolvedor apaixonado por arquitetura de software, performance e construção de soluções escaláveis.
 
-## 💻 O que você vai encontrar aqui
+Transformo problemas complexos em sistemas organizados, eficientes e sustentáveis, aplicando boas práticas, princípios sólidos de design e pensamento arquitetural moderno.
 
-- Projetos pessoais e profissionais  
-- Implementações utilizando diferentes linguagens e tecnologias  
-- Soluções envolvendo APIs, banco de dados e arquitetura de software  
-- Código limpo, organizado e orientado a boas práticas  
+Este GitHub é meu laboratório técnico e portfólio profissional — um espaço onde compartilho projetos, estudos arquiteturais e implementações que refletem minha evolução constante como engenheiro de software.
 
-## 🚀 Tecnologias e interesses
+---
 
-Atuo e tenho interesse nas seguintes tecnologias e áreas:
+## 🧠 Filosofia de Desenvolvimento
 
-- **Front-end:** ReactJS, HTML, CSS  
-- **Back-end:** Java, C#, C/C++  
-- **Banco de Dados:** Modelagem, consultas e integração com aplicações  
-- **APIs:** Desenvolvimento e consumo de APIs  
-- **Fundamentos:** Lógica de programação e estrutura de dados  
-- **Boas práticas:** Design Patterns, organização e arquitetura de software  
+Acredito que código vai além de funcionar — ele precisa ser:
 
-## 📚 Desenvolvimento contínuo
+- 📐 Bem estruturado  
+- 🔍 Legível e manutenível  
+- ⚡ Performático  
+- 🧩 Escalável  
+- 🏗️ Arquiteturalmente sólido  
 
-Acredito na tecnologia como um meio de gerar valor por meio de soluções bem projetadas e escaláveis. Busco constantemente aprimorar minhas habilidades técnicas, qualidade de código e capacidade de resolver problemas complexos.
+Princípios que aplico:
 
-Sinta-se à vontade para explorar os repositórios e conhecer as soluções desenvolvidas.
+- SOLID  
+- Clean Code  
+- Clean Architecture  
+- Design Patterns  
+- Separação de responsabilidades  
+- Arquitetura orientada a domínio  
 
-## 📫 Contato
+---
 
-- **LinkedIn:** https://www.linkedin.com/in/jorge-von-doellinger  
-- **E-mail:** jvondoellinger.hello@outlook.com.br  
+## 💻 O que você encontrará aqui
+
+🚀 Projetos pessoais e profissionais  
+🧪 Estudos de arquitetura e padrões de projeto  
+🔗 Implementações de APIs robustas  
+🗄️ Integração com bancos de dados e estratégias de performance  
+⚙️ Código organizado e orientado a boas práticas  
+📊 Soluções pensadas para escalabilidade  
+
+---
+
+## 🛠️ Stack & Tecnologias
+
+### 🔹 Back-end
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+</p>
+
+### 🔹 Front-end
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+</p>
+
+### 🔹 Banco de Dados
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
+</p>
+
+---
+
+## 📈 Desenvolvimento Contínuo
+
+Vejo tecnologia como ferramenta estratégica para gerar valor real através de sistemas bem projetados.
+
+Estou constantemente:
+
+- 📚 Estudando arquitetura avançada  
+- ⚙️ Refinando qualidade de código  
+- 🚀 Explorando estratégias de performance  
+- 🧠 Aprimorando resolução de problemas complexos  
+
+Meu objetivo é evoluir continuamente como desenvolvedor e arquiteto de software, construindo soluções cada vez mais robustas, escaláveis e inteligentes.
+
+---
+
+## 🌎 Vamos Conectar?
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/jorge-von-doellinger  
+
+📧 **E-mail:**  
+jvondoellinger.hello@outlook.com.br  
