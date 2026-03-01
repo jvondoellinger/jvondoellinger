@@ -2,30 +2,7 @@
 
 Desenvolvedor focado em arquitetura de software, performance e construção de soluções escaláveis e resilientes.
 
-Transformo problemas complexos em sistemas organizados, eficientes e sustentáveis, aplicando boas práticas, princípios sólidos de design e pensamento arquitetural moderno.
-
-Este GitHub é meu laboratório técnico e portfólio profissional — um espaço onde compartilho projetos, estudos arquiteturais e implementações que refletem minha evolução constante como engenheiro de software.
-
----
-
-## 🧠 Filosofia de Desenvolvimento
-
-Acredito que código vai além de funcionar — ele precisa ser:
-
-- 📐 Bem estruturado  
-- 🔍 Legível e manutenível  
-- ⚡ Performático  
-- 🧩 Escalável  
-- 🏗️ Arquiteturalmente sólido  
-
-Princípios que aplico:
-
-- SOLID  
-- Clean Code  
-- Clean Architecture  
-- Design Patterns  
-- Arquitetura orientada a domínio  
-- Sistemas distribuídos e resilientes  
+Transformo problemas complexos em sistemas organizados, eficientes e sustentáveis, aplicando boas práticas e pensamento arquitetural moderno.
 
 ---
 
@@ -65,7 +42,12 @@ Princípios que aplico:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
+</p>
+
+### ☁️ Cloud & Orquestração
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40"/>
 </p>
 
 - Docker Compose  
@@ -75,8 +57,6 @@ Princípios que aplico:
 
 # 📈 Desenvolvimento Contínuo
 
-Vejo tecnologia como ferramenta estratégica para gerar valor real através de sistemas bem projetados e escaláveis.
-
 Estou constantemente:
 
 - 📚 Estudando arquitetura distribuída  
@@ -84,14 +64,4 @@ Estou constantemente:
 - 🚀 Explorando estratégias de performance  
 - 🧠 Aprimorando resolução de problemas complexos  
 
-Meu objetivo é evoluir continuamente como desenvolvedor e arquiteto de software, construindo soluções robustas, resilientes e de alto impacto.
-
----
-
-## 🌎 Vamos Conectar?
-
-🔗 **LinkedIn:**  
-https://www.linkedin.com/in/jorge-von-doellinger  
-
-📧 **E-mail:**  
-jvondoellinger.hello@outlook.com.br  
+Meu objetivo é construir soluções robustas, resilientes e de alto impacto.
