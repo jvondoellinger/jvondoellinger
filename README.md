@@ -34,10 +34,8 @@ Transformo problemas complexos em sistemas organizados, eficientes e sustentáve
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/330px-Cassandra_logo.svg.png" height="40"/>
   <img src="https://icon.icepanel.io/AWS/svg/Database/Aurora.svg" height="40"/>
+  <img src="https://icon.icepanel.io/AWS/svg/Database/DocumentDB.svg" height="40"/>
 </p>
-
-- Amazon Aurora  
-- Amazon DocumentDB  
 
 ## 🔹 Cache & Infraestrutura
 <p>
