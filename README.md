@@ -78,6 +78,18 @@ Gosto de transformar **problemas complexos em soluções elegantes**, construind
 ## 📈 Activity
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvondoellinger&theme=github_dark)
 
+<h2 align="center">Estatísticas GitHub</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvondoellinger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,prs" alt="jvondoellinger github stats"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=jvondoellinger&theme=dracula&hide_border=true" alt="jvondoellinger commit streak"/>
+</div>
+
+<br>
+
+<!-- Opcional: top linguagens -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvondoellinger&layout=compact&theme=dracula&hide_border=true" alt="Top Linguagens"/>
+
 ---
 
 # 🤝 Contato
