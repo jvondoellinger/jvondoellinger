@@ -1,8 +1,19 @@
 # 👋 Olá, eu sou Jorge Von Doellinger
 
-Desenvolvedor focado em arquitetura de software, performance e construção de soluções escaláveis e resilientes.
+💻 Software Developer focado em **arquitetura de software, performance e sistemas escaláveis**.
 
-Transformo problemas complexos em sistemas organizados, eficientes e sustentáveis, aplicando boas práticas e pensamento arquitetural moderno.
+Gosto de transformar **problemas complexos em soluções elegantes**, construindo sistemas **robustos, resilientes e bem estruturados**, sempre aplicando boas práticas de engenharia de software.
+
+---
+
+# 🧠 Especialidades
+
+- Arquitetura de software
+- Sistemas distribuídos
+- Performance e otimização
+- Backend de alta confiabilidade
+- Design de APIs
+- Modelagem de dados
 
 ---
 
@@ -33,40 +44,44 @@ Transformo problemas complexos em sistemas organizados, eficientes e sustentáve
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/330px-Cassandra_logo.svg.png" height="40"/>
-  <img src="https://icon.icepanel.io/AWS/svg/Database/Aurora.svg" height="40"/>
-  <img src="https://icon.icepanel.io/AWS/svg/Database/DocumentDB.svg" height="40"/>
 </p>
 
-## 🔹 Cache & Infraestrutura
+## 🔹 Infraestrutura & Cloud
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-</p>
-
-### ☁️ Cloud & Orquestração
-
-<p>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40"/>
 </p>
+
+**Outras ferramentas**
 
 - Docker Compose  
 - ProxySQL  
 
 ---
 
-# 📈 Desenvolvimento Contínuo
+# 🚀 Atualmente focado em
 
-Estou constantemente:
+- Arquitetura de sistemas distribuídos
+- Escalabilidade e alta disponibilidade
+- Otimização de banco de dados
+- Design de APIs robustas
+- Engenharia de software aplicada a sistemas reais
 
-- 📚 Estudando arquitetura distribuída  
-- ⚙️ Refinando qualidade de código  
-- 🚀 Explorando estratégias de performance  
-- 🧠 Aprimorando resolução de problemas complexos  
+---
 
-Meu objetivo é construir soluções robustas, resilientes e de alto impacto.
+# 📊 Estatísticas
 
-## 📊 GitHub Streak
+## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jvondoellinger&theme=dark)
 
-## 📊 GitHub Contribuitions
+## 📈 Activity
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvondoellinger&theme=github_dark)
+
+---
+
+# 🤝 Contato
+
+Se quiser conversar sobre tecnologia, arquitetura ou projetos:
+
+- GitHub: https://github.com/jvondoellinger
