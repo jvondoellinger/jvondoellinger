@@ -65,14 +65,8 @@ Estou constantemente:
 
 Meu objetivo é construir soluções robustas, resilientes e de alto impacto.
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvondoellinger&show_icons=true)
-
 ## 📊 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jvondoellinger&theme=dark)
-
-## 📊 GitHub Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jvondoellinger&theme=github-dark)
 
 ## 📊 GitHub Contribuitions
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvondoellinger&theme=github_dark)
