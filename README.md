@@ -78,6 +78,8 @@ Gosto de transformar **problemas complexos em soluções elegantes**, construind
 ## 📈 Activity
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvondoellinger&theme=github_dark)
 
+![snake gif](https://github.com/SEU_USERNAME/jvondoellinger/blob/output/github-contribution-grid-snake.svg)
+
 # 🤝 Contato
 
 Se quiser conversar sobre tecnologia, arquitetura ou projetos:
