@@ -66,4 +66,4 @@ Estou constantemente:
 Meu objetivo é construir soluções robustas, resilientes e de alto impacto.
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvondoellinger&show_icons=true)
