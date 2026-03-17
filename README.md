@@ -84,4 +84,4 @@ Gosto de transformar **problemas complexos em soluções elegantes**, construind
 
 Se quiser conversar sobre tecnologia, arquitetura ou projetos:
 
-- GitHub: [Linkedin](https://www.linkedin.com/in/jorge-von-doellinger/)
+- [Linkedin](https://www.linkedin.com/in/jorge-von-doellinger/)
