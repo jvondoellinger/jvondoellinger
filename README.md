@@ -64,3 +64,6 @@ Estou constantemente:
 - 🧠 Aprimorando resolução de problemas complexos  
 
 Meu objetivo é construir soluções robustas, resilientes e de alto impacto.
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true)
