@@ -73,3 +73,6 @@ Meu objetivo é construir soluções robustas, resilientes e de alto impacto.
 
 ## 📊 GitHub Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jvondoellinger&theme=github-dark)
+
+## 📊 GitHub Contribuitions
+![](https://ghchart.rshah.org/SEU_USERNAME)
