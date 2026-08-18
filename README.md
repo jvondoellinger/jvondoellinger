@@ -1,142 +1,106 @@
-# 👋 Olá, eu sou Jorge Von Doellinger
+<h1 align="center">Jorge Von Doellinger</h1>
+<p align="center">
+  Backend &amp; Arquitetura de Software — Java · Spring · .NET · AWS<br>
+  <em>Sistemas distribuídos, CQRS, testes de verdade e entrega contínua Git-first.</em>
+</p>
 
-💻 Software Engineer em formação, focado em **backend, arquitetura de software e sistemas distribuídos**.
-
-Tenho como principal objetivo construir sistemas **escaláveis, resilientes e preparados para produção**, aplicando práticas modernas de engenharia como **TDD, testes de integração e arquitetura orientada a domínio**.
-
----
-
-# 🚀 Sobre mim
-
-* 🎓 Estudante de **Engenharia de Software**
-* 🧠 Focado em **backend e arquitetura de sistemas**
-* ⚙️ Experiência prática com **Java + Spring (WebFlux, Security, Data)**
-* 🧪 Forte foco em **qualidade de software e testes automatizados**
-* ☁️ Experiência com **cloud, containers e ambientes distribuídos**
-
----
-
-# 🧠 Como eu construo software
-
-Hoje meu foco não é só “fazer funcionar”, mas sim **engenharia de software de verdade**:
-
-* Arquitetura baseada em **Vertical Slice (Feature-oriented)**
-* Aplicação de **Clean Architecture e SOLID**
-* Desenvolvimento orientado a testes (**TDD**)
-* Testes em múltiplos níveis:
-
-  * Unitários (JUnit)
-  * Integração (**Testcontainers** com banco real)
-  * Sandbox (simulação de ambiente de produção)
-* Integrações reais com serviços externos (pagamentos, cloud, etc)
-* Código preparado para evolução (baixo acoplamento + alta coesão)
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-4-6DB33F?logo=springboot&logoColor=white">
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-21-DD0031?logo=angular&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+</p>
 
 ---
 
-# 🛠️ Stack & Tecnologias
+## Sobre
 
-## 🔹 Backend
+Desenvolvedor backend com foco em **arquitetura, sistemas distribuídos e qualidade de software**.
 
-* Java (21/23), Spring Boot, WebFlux
-* Spring Security, Spring Data JPA
-* C# (.NET Core), Node.js
+Trabalho em ambientes de **documentação viva e deploy contínuo Git-first**: commit no repositório-fonte → geração automatizada → quality gates → publicação, com rollback previsível. Nos projetos pessoais aplico o mesmo rigor: domínio isolado de framework, testes de integração com banco real e decisões arquiteturais registradas.
 
-## 🔹 Testes & Qualidade
-
-* TDD
-* JUnit
-* Testcontainers
-* Testes unitários e de integração
-* Testes em ambiente sandbox
-
-## 🔹 Arquitetura
-
-* Vertical Slice Architecture (Feature-oriented)
-* Clean Architecture
-* SOLID
-* Design Patterns
-* APIs REST
-
-## 🔹 Integrações
-
-* Stripe
-* Mercado Pago
-* JWT / JWE
-* Integração com serviços externos
-
-## 🔹 Banco de Dados
-
-* MongoDB (Atlas)
-* PostgreSQL / MySQL
-* Modelagem relacional e NoSQL
-
-## 🔹 Cloud & DevOps
-
-* AWS (S3, CloudWatch)
-* Docker / Docker Compose
-* GitHub Actions (CI/CD)
-* Observabilidade com Grafana Loki
+- Estudante de **Engenharia de Software**
+- **AWS Certified Cloud Practitioner**; em preparação para **Solutions Architect Associate**
+- Linguagens de trabalho: **Java**, **C#/.NET**, **TypeScript/Node.js**
 
 ---
 
-# 🔥 Projetos em destaque
+## Como eu construo software
 
-## 🚧 Rising HelpDesk
-
-Sistema completo de gerenciamento de tickets, desenvolvido com foco em **arquitetura limpa e qualidade de software**.
-
-**Destaques:**
-
-* Arquitetura baseada em **Vertical Slice**
-* Testes de integração com **Testcontainers**
-* Uso de **TDD** em partes críticas
-* Estrutura preparada para evolução (event-driven)
-* Simulação de ambiente real para testes
+- **Vertical Slice / feature-oriented** — cada caso de uso reúne endpoint, command/query, handler e serviço
+- **Ports & Adapters** — domínio sem dependência de framework, persistência como adaptador
+- **CQRS** — separação explícita entre escrita (`Command`) e leitura (`Query` + cache)
+- **State Machine no agregado** — transições inválidas rejeitadas no domínio
+- **Railway-Oriented Programming** — resultado monádico (`ResultB<T>`) em vez de exceção como fluxo de negócio
+- **Testes em camadas** — unitários (JUnit 5 + Mockito) e integração com **Testcontainers** (banco real)
+- **Observabilidade desde o início** — Actuator + Micrometer → Prometheus → Grafana
 
 ---
 
-## 🛒 Marketplace de Itens Virtuais
+## Stack
 
-API backend com foco em **alta concorrência e integração com serviços externos**.
-
-**Destaques:**
-
-* Programação reativa com **Spring WebFlux**
-* Integração com **Stripe e Mercado Pago**
-* Uso de **Redis, MongoDB Atlas e AWS S3**
-* Observabilidade com logs estruturados
-* Pipeline CI/CD com GitHub Actions
-* Testes em ambiente sandbox
+| Domínio | Tecnologias |
+| --- | --- |
+| Backend | Java 17 · Spring Boot 4 · WebFlux · Spring Data JPA · Spring Security · C#/.NET · Node.js |
+| Frontend | Angular 21 (SSR) · TypeScript · .NET MAUI |
+| Dados | MySQL · PostgreSQL · MongoDB Atlas · Redis · DynamoDB |
+| Cloud & DevOps | AWS (S3, SQS, DynamoDB, CloudWatch, LocalStack) · GCP · Cloudflare Pages/Workers · Docker Compose · GitHub Actions |
+| Integrações | Spring Cloud Gateway · Stripe · Mercado Pago · JWT/JWE · APIs REST |
+| Qualidade | JUnit 5 · Mockito · Testcontainers · Prometheus · Grafana |
 
 ---
 
-# 🎯 Atualmente estudando
+## Projetos em destaque
 
-* Sistemas distribuídos
-* Arquitetura orientada a eventos
-* Resiliência e tolerância a falhas
-* Observabilidade (logs, métricas e tracing)
-* Design de APIs escaláveis
+### Rising HelpDesk — [`Rising-HelpDesk`](https://github.com/jvondoellinger/Rising-HelpDesk)
+
+Sistema de chamados de ponta a ponta: API Spring Boot 4, Gateway, MySQL, Redis, observabilidade e SPA Angular com SSR.
+
+- **CQRS** com handlers tipados por feature
+- **State Machine** de tickets com transições validadas no domínio
+- **Cache-Aside** em Redis com serializer próprio e TTL de 30 min
+- **Testcontainers** subindo MySQL real nos testes de integração
+- Métricas em `/actuator/prometheus`, dashboards no Grafana e stack completa via `docker compose`
+
+### Marketplace de itens virtuais — [`Marketplace`](https://github.com/jvondoellinger/Marketplace)
+
+API reativa com **Spring WebFlux**, integrações de pagamento **Stripe** e **Mercado Pago**, Redis, MongoDB Atlas e AWS S3, com pipeline CI/CD no GitHub Actions e testes em sandbox.
+
+### OmniSphere — [`OmniSphere---no-branch`](https://github.com/jvondoellinger/OmniSphere---no-branch)
+
+Ecossistema de microsserviços de vendas em .NET, com foco em escalabilidade e limites de serviço bem definidos.
+
+### Product — [`Product`](https://github.com/jvondoellinger/Product)
+
+Laboratório de AWS com **LocalStack**: mensageria com **SQS** e persistência em **DynamoDB**, praticando desacoplamento entre serviços.
+
+### Design Patterns — [`DesingPattern`](https://github.com/jvondoellinger/DesingPattern)
+
+Implementações comentadas de padrões GoF em Java, base das decisões usadas nos projetos maiores.
 
 ---
 
-# 📊 Estatísticas
+## Estudando agora
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=jvondoellinger\&theme=dark)
-
-## 📈 Activity
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvondoellinger\&theme=github_dark)
+- AWS Solutions Architect Associate
+- Arquitetura orientada a eventos e resiliência (retry, idempotência, circuit breaker)
+- Observabilidade ponta a ponta: logs estruturados, métricas e tracing
+- Pipelines de build reproduzível e quality gates bloqueantes
 
 ---
 
-# 🤝 Contato
+## Estatísticas
 
-Se quiser trocar ideia sobre arquitetura, backend ou engenharia de software:
-
-* 💼 https://www.linkedin.com/in/jorge-von-doellinger/
-* 📧 [jvondoellinger.career@outlook.com.br](mailto:jvondoellinger.career@outlook.com.br)
+<p align="center">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jvondoellinger&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvondoellinger&layout=compact&theme=github_dark&hide_border=true">
+</p>
 
 ---
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/jorge-von-doellinger/
+- E-mail: jvondoellinger.career@outlook.com.br
